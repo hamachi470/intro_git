@@ -1,3 +1,4 @@
 これははまちのgitです。
 gitの操作を練習します。
 git add, git commit, git rm
+git status
